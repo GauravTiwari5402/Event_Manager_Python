@@ -10,4 +10,4 @@
 # 7. Show Overall Event Summary
 
 #Created by Gaurav Tiwari
-https://github.com/GauravTiwari5402/Event_Manager_Python/blob/main/git.png
+![image](https://github.com/GauravTiwari5402/Event_Manager_Python/blob/main/git.png)
